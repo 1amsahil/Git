@@ -1,0 +1,5 @@
+Merge Commands :-
+
+1. git diff <Branch name> (To compare commits, branches, files & more)
+
+2. git merge <branch name> (To merge 2 branaches)

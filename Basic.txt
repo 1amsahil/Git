@@ -1,0 +1,24 @@
+// Git Commands
+
+Basic Commands :-
+
+1. git clone ( Cloning a respo on our local machine)
+
+2.git status ( Displays the status )
+
+
+
+
+1. git init
+    The git init command is used to create a new Git repository. When you run this command, Git sets up the necessary structures and files in the current directory, allowing you to start tracking changes 
+
+2. git remote add origin <Link>
+    The `git remote add origin` command is used to add a remote repository to your local Git repository. This allows you to push and pull changes between your local and remote repositories.
+
+
+3. git remote -v (To verify the remote)
+
+4. git branch (To check branch)
+
+5. git push orgin main
+    The git push origin command transfers commits from your local repository to a remote repository.

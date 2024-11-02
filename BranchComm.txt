@@ -1,0 +1,11 @@
+Branch Commands :-
+
+1. git branch (To check Branch)
+
+2. git branch -M <branch_name> (To rename branch)
+
+3. git checkout <branch_name> (To navigate)
+
+4. git checkout -b <new_branch_name> (To create new branch)
+
+5. git branch -d <branch_name> (To delete branch)
