@@ -1,0 +1,14 @@
+Undoing Changes 
+
+1. Staged Changes :-
+                    a. git reset <file name> (For a Specific file in git repo)
+
+                    b. git reset (For All files in git repo )
+
+2. Commited Changes :-
+                    a. git reset HEAD~1 ( reset till 1 commit in git repo )
+
+3. Commited Changes (For many commits) :-
+                                        a. git reset <commit hashcode> ( reset the git repo )
+
+                                        a. git reset --hard <commit hashcode> ( reset the repo as well as in IDE )
